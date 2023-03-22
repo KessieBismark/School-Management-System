@@ -1,0 +1,280 @@
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\cre.json
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\MySkul.exe.config
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\MySkul.exe
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\MySkul.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\MySkul.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\DPFPDevNET.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\DPFPEngNET.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\DPFPGuiNET.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\DPFPShrNET.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\DPFPVerNET.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\FlashControlV71.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Auth.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Core.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\log4net.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\MySql.Data.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.IO.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Runtime.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Threading.Tasks.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Telerik.WinControls.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\TelerikCommon.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Zlib.Portable.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\stdole.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Auth.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Core.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Core.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\log4net.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\MySql.Data.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.IO.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Runtime.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\System.Threading.Tasks.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Telerik.WinControls.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\bin\Debug\Zlib.Portable.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.vbprojResolveAssemblyReference.cache
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\Interop.InteropExtensionLib.dll
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.vbproj.ResolveComReference.cache
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.dbBackup.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.dbconfig.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addAttendance.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addcheque.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addleave.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addmarks.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addremark.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addsalaries.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addsub_allocation.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.AdminOnly.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.csv_export.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.csv_import.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.dcheques.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.dincome.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.edditallocation.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.eventss.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.imdialog.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.login_school.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.meg_config.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.reset_account.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.school_registration.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.users.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.view_users.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.dashboard2.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addcharges.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addincome.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addexpenses.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.addstaff.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.updateexpenses.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.adstudent.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.Dialog1.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.ErrorFeed.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.etimetable.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.eventsact.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.feedback.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.classroom.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.dashboard.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.Files.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.Home.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.login.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.messages.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.staff.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.password.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.ReportHolder.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.student.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.marks.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.configuration.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.payroll.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.transactions.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.Resources.resources
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.vbproj.GenerateResource.Cache
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.exe.licenses
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.exe
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.xml
+C:\Users\JU-NIOR\Documents\Visual Studio 2015\Projects\MySkul\MySkul\obj\x86\Debug\MySkul.pdb
+C:\Users\JUNIOR\Desktop\MySkul\MySkul\bin\Debug\MySkul.exe.config
+C:\Users\JUNIOR\Desktop\MySkul\MySkul\obj\x86\Debug\MySkul.vbproj.ResolveComReference.cache
+C:\Users\JUNIOR\Desktop\MySkul\MySkul\obj\x86\Debug\MySkul.exe
+C:\Users\JUNIOR\Desktop\MySkul\MySkul\obj\x86\Debug\MySkul.xml
+C:\Users\JUNIOR\Desktop\MySkul\MySkul\obj\x86\Debug\MySkul.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\MySkul.exe.config
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.vbproj.ResolveComReference.cache
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.exe
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.xml
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\cre.json
+H:\lap\desktop\MySkul\MySkul\bin\Debug\MySkul.exe
+H:\lap\desktop\MySkul\MySkul\bin\Debug\MySkul.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\MySkul.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\BouncyCastle.Crypto.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.Shared.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\FlashControlV71.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Auth.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Core.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Drive.v3.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.PlatformServices.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\log4net.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Newtonsoft.Json.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.IO.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.Extensions.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.Primitives.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.WebRequest.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Runtime.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Threading.Tasks.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Telerik.WinControls.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Telerik.WinControls.UI.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\TelerikCommon.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Zlib.Portable.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\ShockwaveFlashObjects.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\stdole.dll
+H:\lap\desktop\MySkul\MySkul\bin\Debug\BouncyCastle.Crypto.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Auth.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Auth.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Core.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Core.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Drive.v3.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.Drive.v3.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.PlatformServices.pdb
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Google.Apis.PlatformServices.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\log4net.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\MySql.Data.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Newtonsoft.Json.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.IO.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.Extensions.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.Primitives.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Net.Http.WebRequest.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Runtime.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\System.Threading.Tasks.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Telerik.WinControls.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Telerik.WinControls.UI.xml
+H:\lap\desktop\MySkul\MySkul\bin\Debug\Zlib.Portable.xml
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.vbprojResolveAssemblyReference.cache
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.dbBackup.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.dbconfig.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addAttendance.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addcheque.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addleave.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addmarks.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addremark.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addsalaries.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addsub_allocation.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.AdminOnly.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.csv_export.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.csv_import.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.dcheques.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.dincome.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.edditallocation.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.eventss.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.imdialog.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.login_school.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.meg_config.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.reset_account.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.school_registration.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.users.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.view_users.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.dashboard2.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addcharges.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addincome.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addexpenses.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.addstaff.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.updateexpenses.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.adstudent.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.Dialog1.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.ErrorFeed.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.etimetable.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.eventsact.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.feedback.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.classroom.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.dashboard.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.Files.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.Home.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.login.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.messages.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.staff.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.password.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.ReportHolder.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.student.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.marks.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.configuration.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.payroll.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.transactions.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.Resources.resources
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.vbproj.GenerateResource.Cache
+H:\lap\desktop\MySkul\MySkul\obj\x86\Debug\MySkul.exe.licenses

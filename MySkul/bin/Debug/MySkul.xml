@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MySkul
+</name>
+</assembly>
+<members>
+<member name="T:MySkul.AppDataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.reportCardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.allReportCardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.allstudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.DebtDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.INCOMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.profitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.chargesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.subject_positionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.analysisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.payrollDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.reportCardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.allReportCardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.allstudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.DebtRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.INCOMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.profitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.chargesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.subject_positionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.analysisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.payrollRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.reportCardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.allReportCardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.allstudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.DebtRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.INCOMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.profitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.chargesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.subject_positionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.analysisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.AppDataset.payrollRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MySkul.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._1589234858650">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._1589262641497">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._20200512_090722">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._20200512_093129">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._20200512_094419">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._20200512_095050">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._20200512_095322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources._20200512_101318">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Add_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Ask_Question">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Ask_Question_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Circled_Left_38px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Circled_Right_38px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Circled_User_Male">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Dribbble">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Error_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Fingerprint_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Fingerprint_Scan_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Gender_Neutral_User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Info_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Marker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.New_Post">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Password_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Print_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Run_Command_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Sorting_Answers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Sorting_Answers_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.student">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Student_Male">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.User_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.User_Male">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MySkul.My.Resources.Resources.Vasily">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
